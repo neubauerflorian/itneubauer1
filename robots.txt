@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: itneubauer.com/impressum.html
+
